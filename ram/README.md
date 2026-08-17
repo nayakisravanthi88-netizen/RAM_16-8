@@ -203,6 +203,6 @@ The design can be extended by adding:
 
 ## Author
 
-**Your Name**
+Sravanthi 
 
 Verilog HDL RAM Design and Verification Project
